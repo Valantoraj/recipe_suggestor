@@ -19,3 +19,7 @@ Click the "Find Recipes" button to see a list of matching recipes.
 
 # View Details:
 Click the "View Details" button on any recipe card to see its full details.
+
+# Application image
+
+![Main page](image.png)
